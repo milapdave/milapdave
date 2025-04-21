@@ -33,11 +33,6 @@ I'm a front-end developer with expertise in React, Next.js and modern JavaScript
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/milap-dave)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/milapdave)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dave.milap3@gmail.com)
 
-## 👨‍💻 Featured Projects
-
-- [React E-commerce](https://github.com/milapdave/react-ecommerce) - An e-commerce platform built with React and modern state management
-- [Task Manager App](https://github.com/milapdave/task-manager) - A full-stack task management application
-- [Portfolio Website](https://github.com/milapdave/portfolio) - My personal portfolio showcasing my work and skills
