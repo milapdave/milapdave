@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Milap Dave
+# Milap Dave
 
-## Front-End Developer passionate about building modern web experiences
+## Front-End Developer | React Specialist
 
-I'm a front-end developer with expertise in React, Next.js and modern JavaScript. Currently enhancing my backend skills with Node.js to become a more versatile full-stack developer.
+I'm a front-end developer focused on building clean, efficient web applications using modern JavaScript frameworks.
 
-## 🛠️ My Tech Stack
+### 🛠️ Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -16,23 +16,17 @@ I'm a front-end developer with expertise in React, Next.js and modern JavaScript
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![Milap's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milapdave&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=milapdave&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
 
-## 🔥 Streak Stats
+### 🌱 Currently Learning
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=milapdave&theme=dark)](https://git.io/streak-stats)
-
-## 🌱 I'm currently learning
-
-- Node.js & Express for full-stack development
+- Node.js backend development
 - Test-driven development with Jest
 - API design and implementation
-- MongoDB and database integration
 
-## 📫 Connect with me
+### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/milapdave)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dave.milap3@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
